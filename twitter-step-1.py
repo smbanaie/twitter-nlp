@@ -46,4 +46,4 @@ class TweetListener(StreamListener):
         return True
 
 twitter_stream = Stream(auth, TweetListener())
-twitter_stream.filter(languages=['fa'], track=['با'  ])
+twitter_stream.filter(languages=['fa'], track=['با' , 'از','به','در'])
