@@ -23,24 +23,28 @@ auth.set_access_token(access_token, access_secret)
 class TweetListener(StreamListener):
 
     def on_data(self, data):
-        try:
-            json_data = json.loads(data)
-            # with codecs.open('tweets-'+datetime.now().strftime("%Y-%m-%d")+'.json', 'a',encoding="utf-8") as f:
-            with codecs.open("tweets/"+str(json_data["id"])+'.txt', 'a',encoding="utf-8") as f:
-                f.write(json_data["text"])
-            print("-"*20)
 
             json_data = json.loads(data)
-            print(json_data["text"])
+            print("Original Data : ")
+
+            print("Tweet ID : "+str(json_data["id"]))
+            print(" User ID : "+str(json_data["user"]["id"]))
+            print(" User Name : " + json_data["user"]["name"])
+            print(" Tweet Text :"+json_data["text"])
+            print(" Tweet Date :"+json_data["created_at"])
+            # برای نمایش و چاپ اطلاعات یوزر باید آنها را به رشته تبدیل کنیم، تابد دامپ این کار را برای ما انجام میدهد
+            print("User Info : \n" +json.dumps(json_data["user"]))
+            print("-" * 20)
+            print("Original Data : ")
+            print(data)
+            print("-" * 20)
 
             return True
-        except BaseException as e:
-            print("Error on_data: %s" % str(e))
-            return False
+
 
     def on_error(self, status):
         print(status)
         return True
 
 twitter_stream = Stream(auth, TweetListener())
-twitter_stream.filter(languages=['fa'], track=['با'  ])
+twitter_stream.filter(languages=['fa'], track=['با' , 'از','به','در'])

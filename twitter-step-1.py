@@ -7,8 +7,7 @@ import json
 import twitter_config
 from datetime import datetime
 import codecs
-
-
+import pathlib
 
 consumer_key = twitter_config.consumer_key
 consumer_secret = twitter_config.consumer_secret
@@ -21,19 +20,23 @@ auth.set_access_token(access_token, access_secret)
 
 
 class TweetListener(StreamListener):
-
+    counter = 0
     def on_data(self, data):
         try:
+            self.counter +=1
             json_data = json.loads(data)
-            # with codecs.open('tweets-'+datetime.now().strftime("%Y-%m-%d")+'.json', 'a',encoding="utf-8") as f:
-            with codecs.open("tweets/"+str(json_data["id"])+'.txt', 'a',encoding="utf-8") as f:
+            # ایجاد پوشه و ذخیره توییت با آی دی در فایلهای متنی
+            Tweet_Directory = 'tweets/'+datetime.now().strftime("%Y-%m-%d")
+            pathlib.Path(Tweet_Directory).mkdir(parents=True, exist_ok=True)
+            with codecs.open(Tweet_Directory+"/"+str(json_data["id"])+'.txt', 'a',encoding="utf-8") as f:
                 f.write(json_data["text"])
-            print("-"*20)
 
-            json_data = json.loads(data)
-            print(json_data["text"])
 
+
+            print("\n"+"*"*50 +"\n"+str(self.counter) + " : \n"+ json_data["text"])
             return True
+
+
         except BaseException as e:
             print("Error on_data: %s" % str(e))
             return False
