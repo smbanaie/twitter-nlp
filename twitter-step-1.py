@@ -29,21 +29,37 @@ class TweetListener(StreamListener):
             Tweet_Directory = 'tweets/'+datetime.now().strftime("%Y-%m-%d")
             pathlib.Path(Tweet_Directory).mkdir(parents=True, exist_ok=True)
             with codecs.open(Tweet_Directory+"/"+str(json_data["id"])+'.txt', 'a',encoding="utf-8") as f:
-                f.write(json_data["text"])
+                if 'extended_tweet' in json_data:
+                    if 'full_text' in json_data['extended_tweet']:
+                        tweet = json_data['extended_tweet']['full_text']
+                    else:
+                        pass  # i need to figure out what is possible here
+                elif 'text' in json_data:
+                    tweet = json_data['text']
+
+                tweet = tweet.replace('\n', ' ')
+                f.write(tweet)
+                print(str(self.counter) + " : \n" + tweet)
+                return True
 
 
 
-            print("\n"+"*"*50 +"\n"+str(self.counter) + " : \n"+ json_data["text"])
-            return True
+
+
+
+
+
+
+
 
 
         except BaseException as e:
             print("Error on_data: %s" % str(e))
-            return False
+            return True
 
     def on_error(self, status):
         print(status)
         return True
 
-twitter_stream = Stream(auth, TweetListener())
+twitter_stream = Stream(auth=auth,listener= TweetListener(),tweet_mode='extended')
 twitter_stream.filter(languages=['fa'], track=['با' , 'از','به','در'])
