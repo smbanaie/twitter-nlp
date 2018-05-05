@@ -1,1 +1,0 @@
-اگر تو ایران هستید، داکر 17 رو دارید، روی اوبونتو هستند و یه http proxy هم دارید و نیاز به build دارید، توی فایل  etc/default/docker/ پارامتر های پروکسی رو بدید: export http_proxy="https://t.co/JRWJRsI3OC"  #Docker #Ubuntu #Proxy https://t.co/zOZZC3h9gl

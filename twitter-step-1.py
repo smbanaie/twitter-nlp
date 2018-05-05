@@ -23,24 +23,26 @@ class TweetListener(StreamListener):
     counter = 0
     def on_data(self, data):
         try:
-            self.counter +=1
             json_data = json.loads(data)
             # ایجاد پوشه و ذخیره توییت با آی دی در فایلهای متنی
             Tweet_Directory = 'tweets/'+datetime.now().strftime("%Y-%m-%d")
             pathlib.Path(Tweet_Directory).mkdir(parents=True, exist_ok=True)
-            with codecs.open(Tweet_Directory+"/"+str(json_data["id"])+'.txt', 'a',encoding="utf-8") as f:
-                if 'extended_tweet' in json_data:
-                    if 'full_text' in json_data['extended_tweet']:
-                        tweet = json_data['extended_tweet']['full_text']
-                    else:
-                        pass  # i need to figure out what is possible here
-                elif 'text' in json_data:
-                    tweet = json_data['text']
 
-                tweet = tweet.replace('\n', ' ')
-                f.write(tweet)
-                print(str(self.counter) + " : \n" + tweet)
-                return True
+            if 'extended_tweet' in json_data:
+                if 'full_text' in json_data['extended_tweet']:
+                    tweet = json_data['extended_tweet']['full_text']
+                else:
+                    pass  # i need to figure out what is possible here
+            elif 'text' in json_data:
+                tweet = json_data['text']
+
+            tweet = tweet.replace('\n', ' ')
+            if "RT" not in tweet :
+                with codecs.open(Tweet_Directory + "/" + str(json_data["id"]) + '.txt', 'a', encoding="utf-8") as f:
+                    self.counter += 1
+                    f.write(tweet)
+                    print(str(self.counter) + " : \n" + tweet)
+            return True
 
 
         except BaseException as e:
