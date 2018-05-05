@@ -1,8 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c24b4d-fb5f-4925-ac60-0b4f525a0f08" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="b5c24b4d-fb5f-4925-ac60-0b4f525a0f08" name="Default" comment="some new tweets">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963680709726208.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963680978145280.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963681515032577.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963683574476801.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963684451086336.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963684765667329.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963684815933441.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963687630319616.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963687974301696.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963688544677888.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963689228423169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963690918608897.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963693787512832.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963695087849472.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963695532462081.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963696761393152.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963698132914176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963699764449280.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700007665664.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700036976640.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700745916416.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700896903168.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963701823856641.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963703111368704.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963704902471680.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963705087025153.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963705133191169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963705342857216.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963710195748864.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963710615113728.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963712129204224.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963713161060353.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963715480498176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963716352991233.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963716398923776.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963718764646400.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963718890352640.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963723135152128.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963723932033024.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963726654078976.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963727128080384.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730076676096.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730449915905.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730533933056.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730726801408.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730965876736.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963731003658242.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963732962414592.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963733826392064.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963734052950016.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963737647472640.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963737949425665.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963738247254016.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963740906360832.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963741644558336.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963741711716352.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963742508584961.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963742898663424.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963745633357824.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963746757423104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963746929467392.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963748162572288.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963748732895232.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963749546475520.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963752507822080.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963757113208832.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963758178570246.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963761747857408.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963762649681920.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963764063113216.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963765933838337.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963766785232897.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963768978853889.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963770811805697.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963771218595840.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963772032299014.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963773248696320.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963773470937090.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963774880305152.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963775203250176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963775786156033.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963777174593537.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963778822889472.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963780278341633.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963780832026624.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963781427580929.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963781482123264.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963781603647493.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963784887853056.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963785080856576.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963785110093824.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963785215053825.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963787555491840.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963790466322432.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963790717931520.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963792102055936.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963792672542720.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963798255042560.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963798892634112.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963799026839552.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963800251654144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963800675250176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963802592010240.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963803149897728.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963803279872007.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963804609507329.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963805905453056.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963808451452928.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963808510152704.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963809143513089.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963809273532416.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963811400077312.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963812175982593.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963812335378433.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963812826054657.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963814545813504.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963817603411969.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963818953990144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963819247570944.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963819784499201.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963820543631360.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963821843902464.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963823622238208.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963827875303425.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963829582393344.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963833793474561.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963837878685696.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963838331711488.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963838541369344.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963840437276672.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963840592347137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963842395897857.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963844484747271.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963845369716736.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963845839339520.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963850679767042.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963850918809600.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963851988307968.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963853947129856.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963854785957888.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963856459436032.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963857218486272.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963857495511040.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963863501721605.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963863526846466.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963864910974976.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963865791770624.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963866697814016.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963867540844544.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963868362878976.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963869004615680.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963870166265856.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963870363635712.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963871512879104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963874109087746.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963875497447425.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963877309284358.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963879121342464.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963879804989440.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963880421560320.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963880740225025.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963881965080576.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963883873423360.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963884888428544.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963885802631168.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963886184476672.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963886905946113.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963886956269568.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963889116135424.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963890399744000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963892371124224.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963894170480643.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963894912897024.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963895760072704.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963896787750912.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963897295200256.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963897811165184.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963900034068481.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963902118645760.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963902827347968.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963903561486336.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963904668729344.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963905574735874.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963906648563712.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963906770075649.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963907386724357.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963910092087296.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/twitter-nlp.iml" afterPath="$PROJECT_DIR$/.idea/twitter-nlp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,12 +201,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="twitter-step-1.py" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="twitter-step-1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="28" />
+            <state relative-caret-position="650">
+              <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
               <folding>
                 <element signature="e#46#77#0" expanded="true" />
               </folding>
@@ -26,11 +214,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitter-step-0.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twitter-step-0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
               <folding>
                 <element signature="e#46#77#0" expanded="true" />
               </folding>
@@ -41,8 +229,8 @@
       <file leaf-file-name="twitter-step-2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="323">
+              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="43" />
               <folding>
                 <element signature="e#45#69#0" expanded="true" />
               </folding>
@@ -52,15 +240,10 @@
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,8 +257,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/twitter-step-0.py" />
-        <option value="$PROJECT_DIR$/twitter-step-1.py" />
         <option value="$PROJECT_DIR$/twitter-step-2.py" />
+        <option value="$PROJECT_DIR$/twitter-step-1.py" />
       </list>
     </option>
   </component>
@@ -101,7 +284,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,21 +294,18 @@
             <path>
               <item name="twitter-nlp" type="b2602c69:ProjectViewProjectNode" />
               <item name="twitter-nlp" type="462c0819:PsiDirectoryNode" />
-              <item name="nlp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="twitter-nlp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="twitter-nlp" type="462c0819:PsiDirectoryNode" />
               <item name="tweets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twitter-persian-nlp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,8 +379,8 @@
     <recent_temporary>
       <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Python.twitter-step-1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.twitter-step-2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.twitter-step-0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.twitter-step-0" />
+        <item index="2" class="java.lang.String" itemvalue="Python.twitter-step-2" />
       </list>
     </recent_temporary>
   </component>
@@ -219,25 +398,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24930556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -249,183 +428,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/twitter_read_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="48" column="25" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="48" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/974178700152524800.txt">
+    <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/974178690992082944.txt">
+    <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/974178464856203264.txt">
+    <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="e#45#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974228568355024896.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231427754659840.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231478409351169.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-456">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231504359477248.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231808333238272.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974232755436425217.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="72" column="138" lean-forward="false" selection-start-line="72" selection-start-column="108" selection-end-line="72" selection-end-column="138" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974234196590907392.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974234943994941440.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974235207518875648.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974235694372671488.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974236000066113536.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-354">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178578018525184.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178677314514945.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178702241288192.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178700152524800.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178464856203264.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178677830438912.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178694980915200.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlp/step2/974178778338549761.txt">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -435,7 +468,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="391">
           <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="e#46#77#0" expanded="true" />
@@ -443,22 +476,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../twitter-persian-nlp/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="323">
           <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="43" />
           <folding>
             <element signature="e#45#69#0" expanded="true" />
@@ -467,22 +487,86 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="544">
           <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="48" column="25" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="48" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/974178700152524800.txt" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/974178690992082944.txt" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/974178464856203264.txt" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974228568355024896.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231427754659840.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231478409351169.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231504359477248.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974231808333238272.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974232755436425217.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974234196590907392.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974234943994941440.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974235207518875648.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974235694372671488.json" />
+    <entry file="file://$PROJECT_DIR$/tweets/2018-03-15/json/974236000066113536.json" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178578018525184.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178677314514945.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178702241288192.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178700152524800.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178464856203264.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178677830438912.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178694980915200.txt" />
+    <entry file="file://$PROJECT_DIR$/nlp/step2/974178778338549761.txt" />
+    <entry file="file://$PROJECT_DIR$/../twitter-persian-nlp/README.md" />
+    <entry file="file://$PROJECT_DIR$/twitter-step-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="e#45#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="e#46#77#0" expanded="true" />
           </folding>
