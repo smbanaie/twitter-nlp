@@ -2,195 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c24b4d-fb5f-4925-ac60-0b4f525a0f08" name="Default" comment="some new tweets">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963680709726208.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963680978145280.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963681515032577.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963683574476801.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963684451086336.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963684765667329.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963684815933441.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963687630319616.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963687974301696.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963688544677888.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963689228423169.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963690918608897.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963693787512832.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963695087849472.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963695532462081.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963696761393152.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963698132914176.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963699764449280.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700007665664.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700036976640.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700745916416.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963700896903168.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963701823856641.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963703111368704.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963704902471680.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963705087025153.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963705133191169.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963705342857216.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963710195748864.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963710615113728.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963712129204224.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963713161060353.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963715480498176.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963716352991233.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963716398923776.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963718764646400.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963718890352640.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963723135152128.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963723932033024.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963726654078976.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963727128080384.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730076676096.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730449915905.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730533933056.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730726801408.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963730965876736.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963731003658242.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963732962414592.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963733826392064.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963734052950016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963737647472640.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963737949425665.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963738247254016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963740906360832.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963741644558336.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963741711716352.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963742508584961.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963742898663424.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963745633357824.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963746757423104.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963746929467392.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963748162572288.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963748732895232.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963749546475520.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963752507822080.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963757113208832.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963758178570246.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963761747857408.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963762649681920.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963764063113216.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963765933838337.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963766785232897.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963768978853889.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963770811805697.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963771218595840.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963772032299014.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963773248696320.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963773470937090.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963774880305152.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963775203250176.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963775786156033.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963777174593537.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963778822889472.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963780278341633.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963780832026624.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963781427580929.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963781482123264.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963781603647493.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963784887853056.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963785080856576.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963785110093824.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963785215053825.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963787555491840.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963790466322432.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963790717931520.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963792102055936.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963792672542720.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963798255042560.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963798892634112.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963799026839552.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963800251654144.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963800675250176.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963802592010240.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963803149897728.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963803279872007.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963804609507329.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963805905453056.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963808451452928.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963808510152704.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963809143513089.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963809273532416.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963811400077312.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963812175982593.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963812335378433.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963812826054657.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963814545813504.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963817603411969.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963818953990144.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963819247570944.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963819784499201.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963820543631360.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963821843902464.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963823622238208.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963827875303425.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963829582393344.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963833793474561.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963837878685696.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963838331711488.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963838541369344.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963840437276672.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963840592347137.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963842395897857.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963844484747271.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963845369716736.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963845839339520.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963850679767042.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963850918809600.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963851988307968.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963853947129856.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963854785957888.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963856459436032.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963857218486272.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963857495511040.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963863501721605.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963863526846466.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963864910974976.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963865791770624.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963866697814016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963867540844544.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963868362878976.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963869004615680.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963870166265856.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963870363635712.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963871512879104.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963874109087746.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963875497447425.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963877309284358.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963879121342464.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963879804989440.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963880421560320.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963880740225025.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963881965080576.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963883873423360.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963884888428544.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963885802631168.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963886184476672.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963886905946113.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963886956269568.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963889116135424.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963890399744000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963892371124224.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963894170480643.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963894912897024.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963895760072704.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963896787750912.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963897295200256.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963897811165184.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963900034068481.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963902118645760.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963902827347968.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963903561486336.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963904668729344.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963905574735874.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963906648563712.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963906770075649.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963907386724357.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweets/2018-04-11/983963910092087296.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/twitter-nlp.iml" afterPath="$PROJECT_DIR$/.idea/twitter-nlp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -205,11 +16,21 @@
       <file leaf-file-name="twitter-step-1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+            <state relative-caret-position="293">
+              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding>
                 <element signature="e#46#77#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -400,12 +221,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24930556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24930556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -563,10 +384,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/twitter-step-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        <state relative-caret-position="293">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
             <element signature="e#46#77#0" expanded="true" />
           </folding>
