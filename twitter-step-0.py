@@ -36,6 +36,15 @@ class TweetListener(StreamListener):
             print("User Info : \n" +json.dumps(json_data["user"]))
             print("-" * 20)
             print("Original Data : ")
+            # with codecs.open("tweets-one-file-per-day/" +datetime.now().strftime("%Y-%m-%d")+ '.txt', 'a', encoding="utf-8") as f:
+            #     str_out = json_data["id_str"]+"\t"
+            #     tags =""
+            #     for hashtag in json_data["entities"]["hashtags"] :
+            #           tags =tags + "," + hashtag["text"]
+            #     if tags != "":
+            #         tags = tags[1:]
+            #     str_out = str_out + "\t" + tags + "\t" + json_data["text"].replace("\n"," ").replace("\t"," ")+"\n"
+            #     f.write(str_out)
             print(data)
             print("-" * 20)
 
