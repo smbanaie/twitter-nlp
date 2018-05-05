@@ -42,6 +42,7 @@ class TweetListener(StreamListener):
                 print(str(self.counter) + " : \n" + tweet)
                 return True
 
+
         except BaseException as e:
             print("Error on_data: %s" % str(e))
             return True
@@ -50,5 +51,5 @@ class TweetListener(StreamListener):
         print(status)
         return True
 
-twitter_stream = Stream(auth=auth,listener= TweetListener(),tweet_mode='extended')
+twitter_stream = Stream(auth, TweetListener())
 twitter_stream.filter(languages=['fa'], track=['با' , 'از','به','در'])
